@@ -1,0 +1,14 @@
+tensorflow==2.1.0	
+werkzeug==0.16.1
+flask==1.1.2
+gevent==20.6.2
+jinja2==2.11.2
+keras==2.3.1
+numpy==1.18.5
+pillow==7.1.2
+h5py==2.10.0
+itsdangerous==1.1.0
+pandas>=0.19
+matplotlib>=1.4.3
+scikit-learn>=0.15.1
+markupsafe==1.1.1
