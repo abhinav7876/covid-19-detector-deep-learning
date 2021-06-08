@@ -5,7 +5,7 @@ gevent==20.6.2
 jinja2==2.11.2
 keras==2.3.1
 numpy==1.18.5
-pillow==7.1.2
+pillow==8.2.0
 itsdangerous==1.1.0
 markupsafe==1.1.1
 setuptools>=40.3.0
